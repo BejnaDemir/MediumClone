@@ -1,0 +1,22 @@
+.bg-yellow {
+  background-color: #FFC017; 
+}
+
+.border-bottom-dark {
+  border-bottom: 1px solid #222
+}
+.trend {
+  font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.aside-buttons li {
+margin-bottom: 10px;
+}
+
+.link-hover-black:hover {
+  color: black !important;
+  text-decoration: none;
+}
+
